@@ -1,3 +1,3 @@
-# obscenity_filter
+# Obscenity filter
 
-Annotated frequency dictionary for BSNLP 2017
+Annotated frequency dictionary for the paper in BSNLP 2017
